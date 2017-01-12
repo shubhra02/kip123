@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 
 
 hello123
+=======
+i'm in slave
+hello
+>>>>>>> slave
